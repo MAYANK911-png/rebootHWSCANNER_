@@ -1,5 +1,5 @@
 name: Build Debug APK
-
+# force trigger
 on:
   push:
     branches: [ "**" ] # Triggers on ANY branch to ensure detection
